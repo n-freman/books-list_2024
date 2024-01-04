@@ -80,3 +80,7 @@
     @apply bg-background text-foreground;
   }
 }
+
+body {
+	background-color: hsl( 240 10% 4%);
+}

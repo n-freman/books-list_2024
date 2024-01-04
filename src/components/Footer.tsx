@@ -4,7 +4,7 @@ const Footer = () => {
 	return (
 		<>
 			<hr className="border-t w-[80vw] mx-auto" />
-			<p className="text-border text-sm text-center my-2">
+			<p className="text-border text-sm text-center my-2 pb-3">
 				developed by n-freman
 			</p>
 		</>

@@ -13,7 +13,7 @@ const BooksSection = () => {
 				setBooks(data)
 			}
 		)
-	})
+	}, [])
 	return (
 		<Container className="my-[5rem]">
 			<h2 className="section-title">Books to read in year 2024</h2>

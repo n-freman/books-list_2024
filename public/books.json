@@ -1,0 +1,218 @@
+[
+	{
+		"title": "Deep Learning with Python",
+		"author": "François Chóllet",
+		"status": "in-process",
+		"date-finished": "",
+		"description": "Book is soft intro to keras framework.\nAlso explains different types of deep learning architectures.",
+		"personal-notes": "Pretty interesting. Easy to read."
+	},
+	{
+		"title": "Cosmos",
+		"author": "Carl Sagan",
+		"status": "done",
+		"date-finished": "3/1/2024",
+		"description": "In \"Cosmos,\" Carl Sagan eloquently weaves together the marvels of science with the poetic beauty of the cosmos.",
+		"personal-notes": "Mind blowing."
+	},
+	{
+    	"title": "Euler's gem",
+    	"author": "David S. Richeson",
+    	"status": "in-process",
+    	"date-finished": "",
+    	"description": "\"Euler's Gem\" by David S. Richeson is a book that celebrates the elegance and importance of Euler's formula, making the complexities of mathematics accessible and engaging for all readers.",
+    	"personal-notes": ""
+    },
+	{
+    	"title": "Natural Language Processing with Pytorch",
+    	"author": "Bryan McMahan",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": ""
+    },
+	{
+    	"title": "Natural Language Processing in Action",
+    	"author": "Hobson Lane",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": ""
+    },
+    {
+    	"title": "Practical Time Series Analysis",
+    	"author": "Aileen Nielsen",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": ""
+    },
+    {
+    	"title": "Recommender systems handbook",
+    	"author": "Francesco Ricci",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": ""
+    },
+	{
+    	"title": "PostgreSQL",
+    	"author": "Е. П. Моргунов",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": ""
+    },
+    {
+    	"title": "PostgreSQL 14 изнутри",
+    	"author": "Егор Рогов",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": ""
+    },
+    {
+    	"title": "Python concurrency with asyncio",
+    	"author": "Matthew Fowler",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": "I think every developer heard of this guy"
+    },
+	{
+    	"title": "Architecture of open source applications",
+    	"author": "Amy Brown and Greg Wilson",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": ""
+    },
+    {
+    	"title": "Algorithms Illuminated. Part II",
+    	"author": "Tim Roughgarden",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": "Part I was quite interesting. Hope the same for part II"
+    },
+    {
+    	"title": "Herding Cats",
+    	"author": "Hank Rainwater",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": "Stolen from the reading list of \"Botanim\" reading club. Promising title & cover."
+    },
+    {
+    	"title": "Mythical Man-Month",
+    	"author": "Fred Brooks",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": "Alexey Goloburdin says it didn't lose its actuality."
+    },
+    {
+    	"title": "The Feynman Lectures on Physics. Part III",
+    	"author": "Richard Feyman",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": "Greatest teacher. Read part 2 few years ago. Couldn't manage out time for the next part."
+    },
+    {
+    	"title": "Foundation",
+    	"author": "Isaac Asimov",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "Science fiction",
+    	"personal-notes": ""
+    },
+    {
+    	"title": "The Book of five rings",
+    	"author": "Miyamoto Musashi",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": ""
+    },
+    {
+    	"title": "So good they can't ignore you",
+    	"author": "Cal Newport",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": ""
+    },
+    {
+    	"title": "Маленькая трилогия",
+    	"author": "А. П. Чехов",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "Consists of 3 parts.\n<ul><li>Человек в футляре</li><li>Крыжовник</li><li>О любви</li></ul>",
+    	"personal-notes": ""
+    },
+	{
+    	"title": "The Prince",
+    	"author": "Machiavelli",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": ""
+    },
+    {
+    	"title": "Fahrenheit 451",
+    	"author": "Ray Bradbury",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": "In my opinion quite faggottish (Opinion without reading it. Most of people I know read are teenage girls). But I'm too curious."
+    },
+    {
+    	"title": "The Alchemist",
+    	"author": "Paulo Coelho",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": "Same as previous book"
+    },
+    {
+    	"title": "Animal Farm",
+    	"author": "George Orwell",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": "In my opinion agression is unacceptable, but there are people that should be beaten by Orwell's books"
+    },
+    {
+    	"title": "The Moon Is a Harsh Mistress",
+    	"author": "Robert Heinlein",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": "Intriguing title. That's it"
+    },
+	{
+    	"title": "Трудно быть богом",
+    	"author": "Братья Стругацкие",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": "There is a movie shot on this book. Mr Vladimir personally sponsored the movie. They spent 10 years & it's black-n-white🤦‍♂️"
+    },
+    {
+    	"title": "Seven Brief Lessons on Physics",
+    	"author": "Carlo Rovelli",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": ""
+    },
+    {
+    	"title": "Somnium",
+    	"author": "Johannes Kepler",
+    	"status": "todo",
+    	"date-finished": "",
+    	"description": "",
+    	"personal-notes": "Author is some no-name? Nah"
+    } 
+]

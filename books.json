@@ -2,8 +2,8 @@
 	{
 		"title": "Deep Learning with Python",
 		"author": "François Chóllet",
-		"status": "in-process",
-		"date-finished": "",
+		"status": "done",
+		"date-finished": "6/1/2024",
 		"description": "Book is soft intro to keras framework.\nAlso explains different types of deep learning architectures.",
 		"personal-notes": "Pretty interesting. Easy to read."
 	},
